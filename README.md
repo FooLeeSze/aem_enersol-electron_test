@@ -10,6 +10,10 @@ Desktop application created with Electron consisting of two main components (Sig
 - [Git](https://git-scm.com/) for source code version control
 
 ## Usage
+Install dependencies
+
+```npm install```
+
 Run application: 
 
 ``` npm run electron:serve ```
